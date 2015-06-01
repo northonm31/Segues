@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6C62F683-88A9-439C-AEC9-FC93D1830B23</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Segues</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F7421532117FDD7D6FD9B8A1F48966F1BFC4E920</key>
+		<string>github.com:ryan-blunden/Segues.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Segues.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F7421532117FDD7D6FD9B8A1F48966F1BFC4E920</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:ryan-blunden/Segues.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F7421532117FDD7D6FD9B8A1F48966F1BFC4E920</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F7421532117FDD7D6FD9B8A1F48966F1BFC4E920</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Segues</string>
+		</dict>
+	</array>
+</dict>
+</plist>

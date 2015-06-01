@@ -92,6 +92,9 @@
                             <constraint firstItem="JvH-KD-Nyz" firstAttribute="top" secondItem="bRc-0a-vgi" secondAttribute="top" id="osi-gq-LNq"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="navigationBar" destination="JvH-KD-Nyz" id="mVC-di-Tx9"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="TkY-fq-I0k" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <exit id="hXJ-Y6-tLX" userLabel="Exit" sceneMemberID="exit"/>
